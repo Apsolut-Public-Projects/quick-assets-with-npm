@@ -19,7 +19,7 @@ Start building for WordPress in seconds with @wordpress/scripts
         return null
     },
 
-    })````
+    })
 
 
     // install
