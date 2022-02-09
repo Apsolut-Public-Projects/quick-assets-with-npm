@@ -1,0 +1,18 @@
+{
+    "name": "ap-quick-assets",
+    "version": "1.0.0",
+    "description": "=== AP Quick Assets === Contributors: apsolut Donate link: https://aleksandarperisic.com/ Tags: comments, spam Requires at least: 3.0.1 Tested up to: 3.4 Stable tag: 4.3 License: GPLv2 or later License URI: http://www.gnu.org/licenses/gpl-2.0.html",
+    "main": "test.js",
+    "scripts": {
+      "build": "wp-scripts build src/ap-quick-assets.js",
+      "start": "wp-scripts start src/ap-quick-assets.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "@wordpress/scripts": "^19.2.4"
+    }
+  }
+  
