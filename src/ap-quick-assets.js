@@ -6,7 +6,7 @@ import "./ap-quick-assets.scss"
 	$( document ).ready(function() {
 
 
-		$( ".ap-quick-wrapper ).each(function( index ) {
+		$( ".ap-quick-wrapper" ).each(function( index ) {
 		
 
 		});
