@@ -1,5 +1,7 @@
 # quick-assets-with-npm
-Start building for WordPress in seconds 
+Start building for WordPress in seconds with @wordpress/scripts
+- can start building normal JS/SCSS 
+- can start building wp.blocks 
 
 
     wp.blocks.registerBlockType('apsolut/ap-quick-assets',{
